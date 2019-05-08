@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Save to store?
 1. Get 'value' array values
 1. Write 'value' values and 'blank' inputs to page - alternate 'value' and 'blank' input
-
+``
 
 The base url to get a random madlib template, is as follows:
 http://madlibz.herokuapp.com/api/random
